@@ -1,16 +1,13 @@
 // Firebase configuration
-// Replace these values with your actual Firebase project credentials
-// You can find these in your Firebase Console > Project Settings > General > Your apps
+// Your actual Firebase project credentials
 
 const firebaseConfig = {
-  apiKey: "your-api-key-here",
-  authDomain: "your-project-id.firebaseapp.com",
-  projectId: "your-project-id",
-  storageBucket: "your-project-id.appspot.com",
-  messagingSenderId: "your-sender-id",
-  appId: "your-app-id",
-  // For Firebase Realtime Database (optional)
-  // databaseURL: "https://your-project-id-default-rtdb.firebaseio.com/",
+  apiKey: "AIzaSyAdgAhgo4MKLqt3WuDtM7Yh5-S3VW9vYw4",
+  authDomain: "marriage-app-821cd.firebaseapp.com",
+  projectId: "marriage-app-821cd",
+  storageBucket: "marriage-app-821cd.firebasestorage.app",
+  messagingSenderId: "241877079343",
+  appId: "1:241877079343:android:bc456e5e37cef0fa86fdda"
 };
 
 export default firebaseConfig; 
